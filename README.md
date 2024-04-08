@@ -126,7 +126,7 @@ Publish the website in the LocalHost.
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1>Black Hole </h1></div>
+                <h1>Introduction To IOT and Embedded Systems  </h1></div>
             <div class="subtitle">
                
 
@@ -156,7 +156,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![image](https://github.com/SwaminathanV23000747/cover/assets/148931113/767b5c35-9817-47d8-9215-007e1c35a29e)
+![Screenshot 2024-04-08 150131](https://github.com/SwaminathanV23000747/cover/assets/148931113/ba6c64f5-a768-43ce-ac83-5fcd3c4dbd2e)
+
 
 
 ## RESULT:
