@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date: 8-4-24
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -31,9 +31,132 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
+<html>
+<head>
+    <title>CSE-IOT</title>
+    <style>
+        .bookpage{
 
+            width: 400px;
+            height: 600px;
+            color:black;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            font-family: ' Arial, sans-serif';
+            background-image: url(back.jpg);
+            background-size: cover;
+        }
+            
+        
+        .insight{
+            color:azure;
+        
+        }
+        
+        
+        .hrstyle{
+            width:100px;
+        }
+        .author{
+        
+            display: inline;
+            position: relative;
+            color:rgb(255, 255, 255);
+            top:340px;
+            
+            font-family:Georgia;
+            font-size: medium;
+        }
+        .booktitle{
+            color:azure;
+            font-family: Roquen;
+            font-size: larger;
+            text-align: center;
+            position: relative;
+            top: 30px;
+        
+        }
+        .id {
+            width:400px;
+            position: relative;
+            top:180px;
+            
+        }
+        .pub{
+            color:azure;
+            font-size: medium;
+            position: relative;
+            top:300px;
+            left:330px;
+        }
+        .ed{
+            color:azure;
+            font-size: medium;
+            font-family: Verdana;
+            position:relative;
+            top:250px;
+        
+        }
+        .subtitle{
+            color:azure;
+            font-family:unicorn;
+            font-size: large;
+            position: relative;
+            top:40px;
+        }
+        .mypic{
+            position: relative;
+            top: 290px;
+            left: 260px;
+            width: 90px;
+            height: 80px;
+            background-size:contain;
+        }
+        </style>
+        <title>Book Cover Page</title>
+        </head>
+        <body>
+        <div class="bookpage">
+            <div class="insight">
+            
+            </div>
+            <div class="hrstyle">
+                <hr style="color:blanchedalmond">
+            </div>
+            <div class="booktitle">
+                <h1>Black Hole </h1></div>
+            <div class="subtitle">
+               
+
+            </div>
+            <div class="subtitle">
+                 
+            </div>
+
+            <div class="mypic">
+                <img src="img.jpg" width="120" height="100" >
+            </div>
+            <div class="id">
+                <hr style="color:blanchedalmond">
+            </div>
+            <div class="author">
+               <p><b>Swaminathan.V(212223110057)</b></p>
+            </div>
+            <div class="pub">
+                SEC
+            </div>
+            <div class="ed">
+                <b>SPECIAL EDITION</b>
+            </div>
+        </div>
+        </body>
+</html>
+```
 
 ## OUTPUT:
+![image](https://github.com/SwaminathanV23000747/cover/assets/148931113/767b5c35-9817-47d8-9215-007e1c35a29e)
 
 
 ## RESULT:
